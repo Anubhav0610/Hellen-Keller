@@ -350,11 +350,7 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📝 License
 
-This project is built with [Lovable](https://lovable.dev) and is open for educational and non-commercial use.
-
----
 
 ## 👨‍💻 Developer
 
@@ -383,6 +379,3 @@ This project is built with [Lovable](https://lovable.dev) and is open for educat
 - [WCAG Accessibility Guidelines](https://www.w3.org/WAI/WCAG21/quickref/)
 - [Google Gemini API](https://ai.google.dev/)
 
----
-
-**Built with ❤️ for the deaf and hard-of-hearing community**
