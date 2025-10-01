@@ -181,9 +181,6 @@ Environment variables are automatically configured via Lovable Cloud:
 
 ---
 
-## 🎓 Resume Bullet Points
-
-Use these concise points for your resume:
 
 ### For Software Engineer/Full Stack Developer Role:
 - **Developed an AI-powered ISL communication platform** using React, TypeScript, and TensorFlow.js, enabling real-time sign language translation with 85%+ gesture recognition accuracy
@@ -205,10 +202,6 @@ Use these concise points for your resume:
 - **Optimized application performance** with lazy loading, React Query caching, debounced inputs, and efficient re-render strategies for 60fps webcam rendering
 
 ---
-
-## 💼 Interview Preparation Guide
-
-### Technical Questions You Should Be Ready For:
 
 #### **1. System Design & Architecture**
 **Q: How did you architect the ISL Bridge platform?**
